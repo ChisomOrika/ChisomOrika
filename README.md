@@ -19,6 +19,8 @@ I am a Data Engineer and Data Analyst <img src="https://media.giphy.com/media/WU
 - :zap: In my free time, I am learning Apahe Frameworks, Flask, Django to build full backend solutions
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chisom-orika-79aaa3129/)
+📝 My certifications:
+- [AWS Solutions Architect Associate](https://www.credly.com/badges/3f21bcd3-30aa-48b9-9f83-b0b258754379)
 <!--
 **ChisomOrika/ChisomOrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
