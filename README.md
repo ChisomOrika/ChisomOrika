@@ -22,6 +22,9 @@ I am a Data Engineer and Data Analyst <img src="https://media.giphy.com/media/WU
 
 📝 My certifications:
 - [AWS Solutions Architect Associate](https://www.credly.com/badges/3f21bcd3-30aa-48b9-9f83-b0b258754379)
+---
+   
+⚡⚡⚡ [Check out my portfolio](https://github.com/ChisomOrika/Professional-Portfolio) ⚡⚡⚡
 <!--
 **ChisomOrika/ChisomOrika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
