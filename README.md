@@ -27,7 +27,7 @@ I am an accomplished **Data Engineer from Nigeria, specializing in building prod
 ### 🌐 Connect & Certifications
 
 - **Opportunity:** I'm currently seeking challenging **Data & ML Engineering** roles that involve integrating AI and scaling **production** systems.
-- **Portfolio:** ⚡⚡⚡ [Check out my portfolio](https://github.com/ChisomOrika/Professional-Portfolio) ⚡⚡⚡
+- **Portfolio:** ⚡⚡⚡ [Check out my portfolio](https://chisom-orika-portfolio.netlify.app/) ⚡⚡⚡
 - **Connect:** [![Linkedin Badge](https://img.shields.io/badge/-chisomorika-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chisom-orika-79aaa3129/)
 - **Certification:** [AWS Solutions Architect Associate](https://www.credly.com/badges/3f21bcd3-30aa-48b9-9f83-b0b258754379)
 
