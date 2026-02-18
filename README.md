@@ -9,9 +9,9 @@
 
 ---
 
-### 🚀 Data & MLOps Engineer | AI/RAG Specialist
+### 🚀 Data Engineer
 
-I am an accomplished **Data Engineer and MLOps Practitioner**  from Nigeria, specializing in building production-grade, end-to-end data and machine learning systems.
+I am an accomplished **Data Engineer from Nigeria, specializing in building production-grade, end-to-end data and machine learning systems.
 
 ---
 
